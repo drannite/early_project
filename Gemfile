@@ -5,6 +5,11 @@ ruby '2.5.3'
 gem 'pg'
 gem 'devise'
 
+gem 'activeadmin'
+gem 'cancan'
+gem 'pundit'
+gem 'draper'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
 
